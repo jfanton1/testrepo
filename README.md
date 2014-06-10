@@ -1,4 +1,4 @@
 testrepo
 ========
 
-This is a test of creating a repository
+This is Joel's test of creating a repository
